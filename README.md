@@ -1,4 +1,4 @@
-<h1 align="center">Hello<span class="wave">👋</span> my fellow programmers. &#128540;</h1>
+<h1 align="center">Hello<span class="wave">👋</span> ,fellow programmers&#128540;!</h1>
 <h3 align="center">It's me Kuber Pathak .A passionate program lover from Nepal.</h3>
 
 
