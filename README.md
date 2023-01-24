@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **CSS and Python**
 
-- 💬 Ask me about: **Still a beginner but can workout some solutions.**
+- 💬 Ask me: **Still a beginner but can workout some solutions.**
 
 - 📫 Reach me: **kuberpathak124@gmail.com**
 
