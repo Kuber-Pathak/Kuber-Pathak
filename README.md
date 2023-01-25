@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning: **CSS and Python**
+- 🌱  I am elevating my mastery in the fields of **Python programming and Cascading Style Sheets (CSS)**
 
 - 💬 Ask me: **Still a beginner but can workout some solutions.**
 
