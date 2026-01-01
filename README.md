@@ -1,66 +1,89 @@
-<h1 align="center">Hello<span class="wave">👋</span> ,fellow programmers&#128540;!</h1>
-<h3 align="center">It's me, Kuber Pathak. A passionate programmer and technophile from Nepal.</h3>
+<h1 align="center">
+  Hi 👋, I'm Kuber Pathak
+</h1>
 
+<h3 align="center">
+AI / Machine Learning | GenAI | Full-Stack Developer
+</h3>
 
-
-- 🌱  I am elevating my skills in the fields of **AI and Machine Learning**
-
-- 💬 Ask me: **Still a beginner but can workout some solutions.**
-
-- 📫 Reach me: **kuberpathak124@gmail.com**
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <!-- Core Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- Web -->
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <!-- DevOps -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <!-- OS -->
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  </a>
+<p align="center">
+Engineering student from Nepal building AI-powered, production-ready applications.
 </p>
 
-### AI / Machine Learning Stack
+---
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6A0DAD?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG%20(Retrieval%20Augmented%20Generation)-FF6F00?style=for-the-badge)
+## 👨‍💻 About Me
+
+- 🎯 Engineering student with **hands-on experience in Machine Learning, Deep Learning, and Generative AI**
+- 🧠 Strong interest in **LLM-based systems, Retrieval-Augmented Generation (RAG), and AI-powered web applications**
+- ⚙️ Experienced in **Python-based ML pipelines**, **LangChain workflows**, and **full-stack development**
+- 🚀 Focused on **real-world problem solving**, not just notebooks and tutorials
+
+---
+
+## 🧠 Core Skills
+
+**Programming Languages**
+- Python, JavaScript, C, C++
+
+**Machine Learning & AI**
+- Machine Learning
+- Deep Learning
+- Supervised & Unsupervised Learning
+- Model Training & Evaluation
+- Feature Engineering
+- Data Preprocessing
+- NumPy, Pandas, scikit-learn
+
+**Generative AI / LLMs**
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Vector Databases
+- Embedding-based Search
+- LLM Integration 
+
+**Web & Backend**
+- Node.js
+- Express.js
+- Next.js
+- React.js
+- REST APIs
+- Server-Side Rendering (SSR)
+
+**Databases**
+- MongoDB
+- MySQL
+- PostgreSQL (SQL)
+
+**DevOps & Tools**
+- Docker
+- Git & GitHub
+- Linux
 
 
-<h3 align="left">Databases:</h3>
-<p align="left"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+## 🧪 What I’m Currently Working On
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuber-pathak&label=Viewers%20count&color=0e75b6&style=flat" alt="kuber-pathak" /> </p>
+- Building **RAG-based AI systems** using **LangChain + vector databases**
+- Developing **AI-powered full-stack applications** with **Next.js + Node.js**
+- Improving **ML model performance** through feature engineering and evaluation
+- Learning **scalable AI deployment** with Docker
+
+---
+
+## 📌 Why Me
+
+- ✅ Can build **end-to-end ML / GenAI systems**
+- ✅ Understands **how models connect to real applications**
+- ✅ Comfortable with both **AI logic and backend integration**
+- ✅ Internship-ready mindset — fast learner, execution focused
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **kuberpathak124@gmail.com**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kuber-pathak&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
